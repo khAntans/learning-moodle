@@ -1,8 +1,6 @@
 # Greetings #
 
-TODO Describe the plugin shortly here.
-
-TODO Provide more detailed description here.
+Moodle plugin based on Moodle Academy course materials.
 
 ## Installing via uploaded ZIP file ##
 
